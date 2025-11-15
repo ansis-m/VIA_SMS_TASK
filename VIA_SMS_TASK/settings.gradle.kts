@@ -1,0 +1,1 @@
+rootProject.name = "VIA_SMS_TASK"
